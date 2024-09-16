@@ -41,11 +41,6 @@ Este repositorio explora el manejo de grandes volúmenes de datos utilizando Pyt
 - Cómo integrar Pandas con herramientas de Big Data.
 - Casos de uso y ejemplos prácticos.
 
-## Recursos Adicionales
-
-- Documentación de [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Dask](https://docs.dask.org/en/latest/), [Vaex](https://vaex.io/docs/), [Apache Spark](https://spark.apache.org/docs/latest/), y [Hadoop](https://hadoop.apache.org/docs/current/).
-- Artículos y estudios sobre Big Data.
-
 ## Instalación de PANDAS
 
 Para trabajar con los ejemplos y tutoriales en este repositorio, instala las siguientes bibliotecas de Python usando `pip`:
@@ -53,6 +48,14 @@ Para trabajar con los ejemplos y tutoriales en este repositorio, instala las sig
 ```bash
  pip install pandas
 ```
+
+## DATOS - ARGENTINA.
+
+Trabajamos con un archivo csv con el historial de nombres de los Argentinos hasta el 2015 aproximadamente.
+
+Tiene 3 COLUMNAS (Nombre, cantidad, Anio)
+Tiene 9.761.609 FILAS (es decir, nombres)
+
 
 
 
