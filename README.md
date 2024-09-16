@@ -1,5 +1,5 @@
 
-#En terminos genrales, cuando decimos que manejamos grandes volumenes de datos y cuando no
+# En terminos genrales, cuando decimos que manejamos grandes volumenes de datos y cuando no
 
 Cuando hablamos de manejar grandes volúmenes de datos, la distinción suele estar en la cantidad de datos que estamos procesando y las herramientas que usamos para ello. Aquí hay una visión general:
 
