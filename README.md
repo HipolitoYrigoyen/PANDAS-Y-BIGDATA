@@ -46,9 +46,14 @@ Este repositorio explora el manejo de grandes volúmenes de datos utilizando Pyt
 - Documentación de [Pandas](https://pandas.pydata.org/pandas-docs/stable/), [Dask](https://docs.dask.org/en/latest/), [Vaex](https://vaex.io/docs/), [Apache Spark](https://spark.apache.org/docs/latest/), y [Hadoop](https://hadoop.apache.org/docs/current/).
 - Artículos y estudios sobre Big Data.
 
-## Instalación
+## Instalación de PANDAS
 
 Para trabajar con los ejemplos y tutoriales en este repositorio, instala las siguientes bibliotecas de Python usando `pip`:
 
 ```bash
- pip install pandas dask vaex pyarrow
+ pip install pandas
+```
+
+
+
+
