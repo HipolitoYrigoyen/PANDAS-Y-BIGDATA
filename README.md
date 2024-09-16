@@ -12,7 +12,6 @@ Este repositorio explora el manejo de grandes volúmenes de datos utilizando Pyt
 4. [Ejemplos y Tutoriales](#ejemplos-y-tutoriales)
 5. [Recursos Adicionales](#recursos-adicionales)
 6. [Instalación](#instalación)
-7. [Ejemplos de Código](#ejemplos-de-código)
 
 ## Introducción a Big Data
 
