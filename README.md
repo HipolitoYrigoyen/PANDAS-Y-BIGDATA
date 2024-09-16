@@ -13,8 +13,6 @@ Este repositorio explora el manejo de grandes volúmenes de datos utilizando Pyt
 5. [Recursos Adicionales](#recursos-adicionales)
 6. [Instalación](#instalación)
 7. [Ejemplos de Código](#ejemplos-de-código)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
 
 ## Introducción a Big Data
 
@@ -58,4 +56,5 @@ Este repositorio explora el manejo de grandes volúmenes de datos utilizando Pyt
 
 Para trabajar con los ejemplos y tutoriales en este repositorio, instala las siguientes bibliotecas de Python usando `pip`:
 
-```bash, pip install pandas dask vaex pyarrow
+```bash
+ pip install pandas dask vaex pyarrow
