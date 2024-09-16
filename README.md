@@ -7,14 +7,6 @@ Cuando hablamos de manejar grandes volúmenes de datos, la distinción suele est
 
 Este repositorio explora el manejo de grandes volúmenes de datos utilizando Python. Aquí encontrarás ejemplos, herramientas y técnicas para procesar y analizar datos que superan la capacidad de las herramientas tradicionales como hojas de cálculo y bases de datos SQL. El enfoque principal está en la comparación entre Pandas y herramientas diseñadas para Big Data.
 
-## Contenidos
-
-1. [Introducción a Big Data](#introducción-a-big-data)
-2. [Uso de Pandas para el Análisis de Datos](#uso-de-pandas-para-el-análisis-de-datos)
-3. [Herramientas para Big Data](#herramientas-para-big-data)
-4. [Ejemplos y Tutoriales](#ejemplos-y-tutoriales)
-5. [Recursos Adicionales](#recursos-adicionales)
-6. [Instalación](#instalación)
 
 ## Introducción a Big Data
 
